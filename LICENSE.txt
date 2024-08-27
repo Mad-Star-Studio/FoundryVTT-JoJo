@@ -1,5 +1,5 @@
 Copyright for portions of project FoundryVTT-JoJo are held by Andrew Clayton as part of project dnd5e.
-All other copyright for project FoundryVTT-JoJo is held by Mad Star Studio LLC.
+All other copyright for project FoundryVTT-JoJo is held by Mad Star Studio LLC, unless specified otherwise.
 
 Copyright 2021 Andrew Clayton
 Copyright 2024 Mad Star Studio LLC
