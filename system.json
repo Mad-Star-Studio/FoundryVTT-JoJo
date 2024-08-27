@@ -12,8 +12,7 @@
   "download": "https://github.com/Mad-Star-Studio/FoundryVTT-JoJo/releases/download/release-4.0.0/FoundryVTT-JoJo-release-4.0.0.zip",
   "authors": [
     {
-      "name": "Atropos",
-      "url": "https://foundryvtt.com",
+      "name": "Mad Star Studio",
       "flags": {}
     }
   ],
