@@ -16,7 +16,7 @@ You can find their website [here](https://www.jojodnd.com/?lang=en), which shoul
 and any other copyright information.
 
 The software component of this system is distributed under the MIT license.
-
+This forks from `dnd5e` as the module is based on the D&D 5e system, but the system itself is not D&D 5e.
 ## Installation Instructions
 To install and use the JoJo D&D system for Foundry Virtual Tabletop, simply paste the following URL into the
 **Install System** dialog on the Setup menu of the application.
