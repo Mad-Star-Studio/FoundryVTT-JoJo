@@ -3,7 +3,7 @@
 # Foundry Virtual Tabletop - JoJo D&D Game System
 
 ## Notice: Heavy Work in Progress. This may start identical to the D&D 5e system, but will be updated to fit the JoJo D&D system as development continues.
-## *Broken References* to some assets may be present.
+## *Broken References* to some assets may be present. This may impact the ability to use the system as intended.
 
 This game system for [Foundry Virtual Tabletop](http://foundryvtt.com) provides character sheet and game system
 support for the [JoJo D&D](https://www.jojodnd.com/?lang=en) module of the world's most popular roleplaying game.
