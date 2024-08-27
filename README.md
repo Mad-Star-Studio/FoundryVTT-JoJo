@@ -3,6 +3,7 @@
 # Foundry Virtual Tabletop - JoJo D&D Game System
 
 ## Notice: Heavy Work in Progress. This may start identical to the D&D 5e system, but will be updated to fit the JoJo D&D system as development continues.
+## *Broken References* to some assets may be present.
 
 This game system for [Foundry Virtual Tabletop](http://foundryvtt.com) provides character sheet and game system
 support for the [JoJo D&D](https://www.jojodnd.com/?lang=en) module of the world's most popular roleplaying game.
@@ -17,6 +18,10 @@ and any other copyright information.
 
 The software component of this system is distributed under the MIT license.
 This forks from `dnd5e` as the module is based on the D&D 5e system, but the system itself is not D&D 5e.
+
+As such, assets licensed for specific use with the D&D 5e system are to be removed entirely, or replaced with assets that do not pose an issue.
+If you see any assets that are not properly licensed, or have other licensing issues, please open an issue or pull request to have them removed or changed.
+
 ## Installation Instructions
 To install and use the JoJo D&D system for Foundry Virtual Tabletop, simply paste the following URL into the
 **Install System** dialog on the Setup menu of the application.
