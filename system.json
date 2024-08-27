@@ -1,15 +1,15 @@
 {
-  "id": "dnd5e",
-  "title": "Dungeons & Dragons Fifth Edition",
-  "description": "A system for playing the fifth edition of the world's most popular role-playing game in the Foundry Virtual Tabletop environment.",
+  "id": "jjdnd",
+  "title": "JoJo D&D",
+  "description": "A system for playing Dungeons & Dragons 5th Edition with a JoJo's Bizarre Adventure twist.",
   "version": "4.0.0",
   "compatibility": {
     "minimum": "12.331",
     "verified": "12"
   },
-  "url": "https://github.com/foundryvtt/dnd5e/",
-  "manifest": "https://raw.githubusercontent.com/foundryvtt/dnd5e/master/system.json",
-  "download": "https://github.com/foundryvtt/dnd5e/releases/download/release-4.0.0/dnd5e-release-4.0.0.zip",
+  "url": "https://github.com/Mad-Star-Studio/FoundryVTT-JoJo/",
+  "manifest": "https://raw.githubusercontent.com/Mad-Star-Studio/FoundryVTT-JoJo/master/system.json",
+  "download": "https://github.com/Mad-Star-Studio/FoundryVTT-JoJo/releases/download/release-4.0.0/FoundryVTT-JoJo-release-4.0.0.zip",
   "authors": [
     {
       "name": "Atropos",
